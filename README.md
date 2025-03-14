@@ -1,4 +1,4 @@
-# Job Portal UI
+# Job Portal Frontend
 
 This is the frontend for the **Job Portal** application, built using **React.js**. It provides an intuitive UI for job seekers and recruiters to interact with job listings.
 
