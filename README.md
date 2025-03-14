@@ -4,7 +4,7 @@ This is the frontend for the **Job Portal** application, built using **React.js*
 
 ## 🔗 Live Demo
 
-[Job Portal Live](https://vercel.com/venkataramanan-ms-projects/job-portal-frontend)
+[Job Portal Live](https://job-portal-frontend-drab.vercel.app/)
 
 ## 📂 Project Structure
 
