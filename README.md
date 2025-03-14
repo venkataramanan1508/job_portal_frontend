@@ -4,12 +4,12 @@ This is the frontend for the **Job Portal** application, built using **React.js*
 
 ## 🔗 Live Demo
 
-[Job Portal Live]()
+[Job Portal Live](https://vercel.com/venkataramanan-ms-projects/job-portal-frontend)
 
 ## 📂 Project Structure
 
 ```
-job_portal_ui/
+job_portal_frontend/
 │-- public/
 │-- src/
 │   ├── component/
@@ -75,7 +75,7 @@ job_portal_ui/
    ```
 
 ## 🖥️ Backend Server
-- The backend API for this project is available here: [Job Portal Server](https://github.com/venkataramanan1508/job-portal-backend)
+- The backend API for this project is available here: [Job Portal Backend](https://github.com/venkataramanan1508/job-portal-backend)
 
 ## 🤝 Contributing
 Feel free to fork this project and submit a pull request if you'd like to improve it!
